@@ -59,20 +59,6 @@ Building scalable backend systems, AI-powered applications, and developer infras
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=0xpriyansh&show_icons=true&theme=github_dark"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=0xpriyansh&theme=github-dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xpriyansh&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 ## 🧭 Engineering Focus
 
 - Scalable backend architecture
