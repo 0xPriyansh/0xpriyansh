@@ -43,7 +43,7 @@ Building scalable backend systems, AI-powered applications, and developer infras
 
 <p align="center">
 
-<a href="https://linkedin.com/in/priyansh-pj">
+<a href="https://linkedin.com/in/0xpriyansh">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
 </a>
 
