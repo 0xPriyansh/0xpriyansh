@@ -1,5 +1,3 @@
-# 0xpriyansh
-
 <h1 align="center">Priyansh Jain</h1>
 <h3 align="center">Backend Engineer | AI Systems | Distributed Infrastructure</h3>
 
@@ -49,7 +47,7 @@ Building scalable backend systems, AI-powered applications, and developer infras
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
 </a>
 
-<a href="mailto:me.priyanshjain@gmail.com">
+<a href="mailto:priyansh.j@ccube.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/>
 </a>
 
